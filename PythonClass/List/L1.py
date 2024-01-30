@@ -34,4 +34,6 @@ print(ln[2]) # 3
 li = "Hello Python"
 print(len(li)) # 12
 
+# list of id elements
 
+print(id(l[0]), id(l[3])) # 140724914742056 140724914742152
