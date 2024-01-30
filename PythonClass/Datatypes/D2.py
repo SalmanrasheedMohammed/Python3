@@ -1,4 +1,6 @@
-# Number System
+# Number System (BINARY,HEXA,OCTAL)
+# (BUILD IN FUNCTION AND CONVERTING TO DECIMALS)
+
 # Binary
 
 binary = 0b0101010
