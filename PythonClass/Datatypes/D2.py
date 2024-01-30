@@ -1,58 +1,40 @@
-# LIST
-
-a = [ 0, 1, 2, 3, 4, 5]
-b = [ 'a', 'b', 'c', 'd']
-
-print (a)
-print (b)
-print (type(a))
-
-#OUTPUT 
-# [0, 1, 2, 3, 4, 5]
-# ['a', 'b', 'c', 'd']
-# <class 'list'>
 
 # Number System
 # Binary
 
 binary = 0b0101010
-print (binary)
-
-#output 
-# 42
+print (binary) # 42
 
 # hexa
 hexadecimal = 0xace
-print (hexadecimal)
-
-# output 
-# 2766
+print (hexadecimal) # 2766
 
 # octal
 octal = 0o123
-print (octal)
-
-# output 
-# 83
+print (octal) # 83
 
 # build in functions
+
 # binary
 b1 =bin(10)
-print (b1)
-
-# output 
-# 0b1010
+print (b1) # 0b1010
 
 # hexa
 h1 =hex(10)
-print (h1)
-
-# output
-# 0xa
+print (h1) # 0xa
 
 #octal
 o1 = oct(10)
-print (o1)
+print (o1) # 0o12cdcd
 
-# output
-# 0o12cdcd
+# Converting to binary
+x = bin(9)
+print(x) # 0b1001
+
+#Converting to hexadecial
+y = hex(9)
+print(y) #0x320
+
+#Converting to Octal
+z = oct(7)
+print(z) # 0o7
