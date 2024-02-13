@@ -17,4 +17,5 @@ print(list) # [1, 2, 4, 6, 5, 6, 7, 8]
 # add strings in the list
 l1 = "hello "
 l2 = "world"
-print(l1 + l2) 
+print(l1 + l2)
+
